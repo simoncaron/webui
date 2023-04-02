@@ -279,6 +279,7 @@ export class CloudCredentialsFormComponent implements OnInit {
       CloudsyncProviderName.Dropbox,
       CloudsyncProviderName.GooglePhotos,
       CloudsyncProviderName.Hubic,
+      CloudsyncProviderName.Jottacloud,
       CloudsyncProviderName.Yandex,
     ];
     if (tokenOnlyProviders.includes(this.selectedProvider.name)) {

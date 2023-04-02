@@ -9,6 +9,7 @@ export enum CloudsyncProviderName {
   GooglePhotos = 'GOOGLE_PHOTOS',
   Http = 'HTTP',
   Hubic = 'HUBIC',
+  Jottacloud = 'JOTTACLOUD',
   Mega = 'MEGA',
   MicrosoftAzure = 'AZUREBLOB',
   MicrosoftOnedrive = 'ONEDRIVE',
